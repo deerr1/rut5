@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "rut5_mod_cpu2",
+  "_name_or_path": "rut5",
   "architectures": [
     "T5ForConditionalGeneration"
   ],
